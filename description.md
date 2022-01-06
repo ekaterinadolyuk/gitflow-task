@@ -1,5 +1,8 @@
 # The best device in the world is your phone. If you want to know more about your device, do not hesitate to open this article.
 
+## Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae enim lacus. Ut sed convallis ex. Donec vestibulum nisl eu metus ornare maximus. Nunc condimentum pellentesque enim, ut posuere nulla fringilla non. Fusce ornare id urna vitae rhoncus. Sed sed mollis dolor, non maximus mi. Vivamus malesuada ornare neque, faucibus vestibulum tellus iaculis sit amet. Donec tellus velit, tristique quis nulla nec, imperdiet faucibus odio. Aliquam bibendum scelerisque nisi sit amet feugiat. Nulla mollis, lorem id accumsan auctor, dolor nisl elementum enim, in elementum lorem metus quis ipsum. Pellentesque dictum, arcu vel pellentesque gravida, nisl justo suscipit nisi, nec consequat magna mauris porta augue. Nam finibus eros mauris, ac sollicitudin diam tincidunt quis. Mauris mollis risus vitae nulla scelerisque tincidunt. In hac habitasse platea dictumst. Aliquam dui diam, placerat at neque sed, imperdiet feugiat ex.
+
 ## Specifications
 |   | Height  | Width  |
 |---|---|---|
